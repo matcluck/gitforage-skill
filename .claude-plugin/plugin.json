@@ -1,0 +1,17 @@
+{
+  "name": "gitforage",
+  "description": "Prior-art and duplicate-work research skill for registries, issues, pull requests, and open-source project analysis.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Matcluck"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "research",
+    "prior-art",
+    "open-source"
+  ],
+  "skills": "./skills/",
+  "category": "Developer Tools"
+}

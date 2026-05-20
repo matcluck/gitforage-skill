@@ -1,0 +1,38 @@
+{
+  "name": "gitforage-marketplace",
+  "owner": {
+    "name": "Matcluck"
+  },
+  "metadata": {
+    "description": "Marketplace for Git Forage prior-art and duplicate-work research skills.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "gitforage",
+      "source": "./",
+      "description": "Prior-art and duplicate-work research skill for registries, issues, pull requests, and open-source project analysis.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Matcluck"
+      },
+      "repository": "https://github.com/matcluck/gitforage-skill",
+      "keywords": [
+        "git",
+        "github",
+        "research",
+        "prior-art",
+        "open-source"
+      ],
+      "category": "developer tools",
+      "tags": [
+        "git",
+        "github",
+        "research",
+        "prior-art",
+        "open-source"
+      ],
+      "strict": false
+    }
+  ]
+}

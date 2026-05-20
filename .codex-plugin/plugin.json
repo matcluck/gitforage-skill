@@ -1,0 +1,34 @@
+{
+  "name": "gitforage",
+  "version": "0.1.0",
+  "description": "Prior-art and duplicate-work research skill for registries, issues, pull requests, and open-source project analysis.",
+  "author": {
+    "name": "Matcluck"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "research",
+    "prior-art",
+    "open-source"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Git Forage",
+    "shortDescription": "Find prior art before building",
+    "longDescription": "A reusable workflow for checking package registries, open issues, pull requests, and GitHub repositories before building new tools, plugins, libraries, integrations, or major features.",
+    "developerName": "Matcluck",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use Git Forage before we build this feature.",
+      "Search for prior art and open PRs for this idea.",
+      "Find maintained open-source projects that solve this problem."
+    ],
+    "brandColor": "#24292F"
+  }
+}
