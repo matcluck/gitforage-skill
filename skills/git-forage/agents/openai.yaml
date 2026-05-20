@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Forage"
+  short_description: "Find prior art and duplicate work before building."
+  default_prompt: "Use Git Forage to check registries, issues, pull requests, and GitHub projects before we build this."
